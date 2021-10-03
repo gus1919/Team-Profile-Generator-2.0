@@ -1,9 +1,12 @@
 # Team-Profile-Generator-2.0
+
+
+## Description
 > A quick team generator to identify employees and information.
 
   ---
   ## Table of contents
-  * [Description](#sescription)
+  * [Description](#description)
   * [Installation](#installation)
   * [Use](#use)
   * [Contributors](#contributors)
