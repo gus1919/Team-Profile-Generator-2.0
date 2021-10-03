@@ -24,12 +24,13 @@
   >In a command line interface (CLI) use the command: 'npm test' to begin the testing to make sure the end product is as desired.  Then using node index.js, answer the questions.  After completed, open the newly generated team portfolio in your browser.  The emails will open in your default email system with the to: field already filled in.  The github user name will link to the person's github profile.  A video link demonstrating these functions is provided below.
 
   >
-  >Here is a link to the video: 
+  >Here is a link to the video: https://watch.screencastify.com/v/AsCBn7Fiz67OGoHZnSnq
   
   >
   
   >Here is a link to the github portfolio: https://github.com/gus1919/Team-Profile-Generator-2.0
-  >
+
+![Screenshot (31)](https://user-images.githubusercontent.com/86876335/135764559-19098ea0-fb53-4eef-b5f7-85e8020e82dd.png)
 
   ---
   ## Contributors
