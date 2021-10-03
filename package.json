@@ -1,0 +1,32 @@
+{
+  "name": "Team-Profile-Generator-2.0",
+  "version": "1.0.0",
+  "description": "A quick team generator to identify employees and information.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gus1919/Team-Profile-Generator-2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gus1919/Team-Profile-Generator-2.0/issues"
+  },
+  "homepage": "https://github.com/gus1919/Team-Profile-Generator-2.0#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.5"
+  },
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
